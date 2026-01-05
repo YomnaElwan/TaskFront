@@ -1,0 +1,26 @@
+D:\Data [Yomna]\Software Engineer\Yomna Sayed Ahmed Elwan\AddressBook\AddressBook.Domain\bin\Debug\net9.0\AddressBook.Domain.deps.json
+D:\Data [Yomna]\Software Engineer\Yomna Sayed Ahmed Elwan\AddressBook\AddressBook.Domain\bin\Debug\net9.0\AddressBook.Domain.dll
+D:\Data [Yomna]\Software Engineer\Yomna Sayed Ahmed Elwan\AddressBook\AddressBook.Domain\bin\Debug\net9.0\AddressBook.Domain.pdb
+D:\Data [Yomna]\Software Engineer\Yomna Sayed Ahmed Elwan\AddressBook\AddressBook.Domain\obj\Debug\net9.0\AddressBook.Domain.csproj.AssemblyReference.cache
+D:\Data [Yomna]\Software Engineer\Yomna Sayed Ahmed Elwan\AddressBook\AddressBook.Domain\obj\Debug\net9.0\AddressBook.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data [Yomna]\Software Engineer\Yomna Sayed Ahmed Elwan\AddressBook\AddressBook.Domain\obj\Debug\net9.0\AddressBook.Domain.AssemblyInfoInputs.cache
+D:\Data [Yomna]\Software Engineer\Yomna Sayed Ahmed Elwan\AddressBook\AddressBook.Domain\obj\Debug\net9.0\AddressBook.Domain.AssemblyInfo.cs
+D:\Data [Yomna]\Software Engineer\Yomna Sayed Ahmed Elwan\AddressBook\AddressBook.Domain\obj\Debug\net9.0\AddressBook.Domain.csproj.CoreCompileInputs.cache
+D:\Data [Yomna]\Software Engineer\Yomna Sayed Ahmed Elwan\AddressBook\AddressBook.Domain\obj\Debug\net9.0\AddressBook.Domain.sourcelink.json
+D:\Data [Yomna]\Software Engineer\Yomna Sayed Ahmed Elwan\AddressBook\AddressBook.Domain\obj\Debug\net9.0\AddressBook.Domain.dll
+D:\Data [Yomna]\Software Engineer\Yomna Sayed Ahmed Elwan\AddressBook\AddressBook.Domain\obj\Debug\net9.0\refint\AddressBook.Domain.dll
+D:\Data [Yomna]\Software Engineer\Yomna Sayed Ahmed Elwan\AddressBook\AddressBook.Domain\obj\Debug\net9.0\AddressBook.Domain.pdb
+D:\Data [Yomna]\Software Engineer\Yomna Sayed Ahmed Elwan\AddressBook\AddressBook.Domain\obj\Debug\net9.0\ref\AddressBook.Domain.dll
+D:\Data [Yomna]\Software Engineer\Yomna Sayed Elwan _ AddressBook\AddressBook\AddressBook.Domain\bin\Debug\net9.0\AddressBook.Domain.deps.json
+D:\Data [Yomna]\Software Engineer\Yomna Sayed Elwan _ AddressBook\AddressBook\AddressBook.Domain\bin\Debug\net9.0\AddressBook.Domain.dll
+D:\Data [Yomna]\Software Engineer\Yomna Sayed Elwan _ AddressBook\AddressBook\AddressBook.Domain\bin\Debug\net9.0\AddressBook.Domain.pdb
+D:\Data [Yomna]\Software Engineer\Yomna Sayed Elwan _ AddressBook\AddressBook\AddressBook.Domain\obj\Debug\net9.0\AddressBook.Domain.csproj.AssemblyReference.cache
+D:\Data [Yomna]\Software Engineer\Yomna Sayed Elwan _ AddressBook\AddressBook\AddressBook.Domain\obj\Debug\net9.0\AddressBook.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data [Yomna]\Software Engineer\Yomna Sayed Elwan _ AddressBook\AddressBook\AddressBook.Domain\obj\Debug\net9.0\AddressBook.Domain.AssemblyInfoInputs.cache
+D:\Data [Yomna]\Software Engineer\Yomna Sayed Elwan _ AddressBook\AddressBook\AddressBook.Domain\obj\Debug\net9.0\AddressBook.Domain.AssemblyInfo.cs
+D:\Data [Yomna]\Software Engineer\Yomna Sayed Elwan _ AddressBook\AddressBook\AddressBook.Domain\obj\Debug\net9.0\AddressBook.Domain.csproj.CoreCompileInputs.cache
+D:\Data [Yomna]\Software Engineer\Yomna Sayed Elwan _ AddressBook\AddressBook\AddressBook.Domain\obj\Debug\net9.0\AddressBook.Domain.sourcelink.json
+D:\Data [Yomna]\Software Engineer\Yomna Sayed Elwan _ AddressBook\AddressBook\AddressBook.Domain\obj\Debug\net9.0\AddressBook.Domain.dll
+D:\Data [Yomna]\Software Engineer\Yomna Sayed Elwan _ AddressBook\AddressBook\AddressBook.Domain\obj\Debug\net9.0\refint\AddressBook.Domain.dll
+D:\Data [Yomna]\Software Engineer\Yomna Sayed Elwan _ AddressBook\AddressBook\AddressBook.Domain\obj\Debug\net9.0\AddressBook.Domain.pdb
+D:\Data [Yomna]\Software Engineer\Yomna Sayed Elwan _ AddressBook\AddressBook\AddressBook.Domain\obj\Debug\net9.0\ref\AddressBook.Domain.dll
